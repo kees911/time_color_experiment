@@ -1,0 +1,40 @@
+Fri May 07 2021 10:39:33 GMT+0100 (West Africa Standard Time)0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+Fri May 07 2021 10:39:33 GMT+0100 (West Africa Standard Time)0, 31, 31 spaced
+60, 31, 31 to
+60, 31, 31 to
+60, 31, 31 to
+60, 31, 31 to
+60, 31, 31 to
+60, 31, 31 to
+Fri May 07 2021 10:39:33 GMT+0100 (West Africa Standard Time)60, 31, 59 spaced
+120, 31, 59 to
+120, 31, 59 to
+120, 31, 59 to
+120, 31, 59 to
+120, 31, 59 to
+120, 31, 59 to
+120, 31, 59 to
+Fri May 07 2021 10:39:33 GMT+0100 (West Africa Standard Time)120, 77, 51 spaced
+180, 77, 51 to
+180, 77, 51 to
+180, 77, 51 to
+180, 77, 51 to
+Fri May 07 2021 10:39:33 GMT+0100 (West Africa Standard Time)180, 59, 29 spaced
+240, 59, 29 to
+240, 59, 29 to
+240, 59, 29 to
+240, 59, 29 to
+240, 59, 29 to
+Fri May 07 2021 10:39:33 GMT+0100 (West Africa Standard Time)240, 71, 60 spaced
+300, 71, 60 to
+300, 71, 60 to
+300, 71, 60 to
+300, 71, 60 to
+300, 71, 60 to
+300, 71, 60 to
+Fri May 07 2021 10:39:33 GMT+0100 (West Africa Standard Time)300, 71, 75 spaced

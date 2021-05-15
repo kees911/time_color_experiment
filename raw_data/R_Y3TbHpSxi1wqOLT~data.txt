@@ -1,0 +1,32 @@
+Fri May 07 2021 03:08:26 GMT-0500 (Chicago Daylight Time)0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+Fri May 07 2021 03:08:26 GMT-0500 (Chicago Daylight Time)0, 44, 76 spaced
+60, 44, 76 to
+60, 44, 76 to
+60, 44, 76 to
+60, 44, 76 to
+60, 44, 76 to
+60, 44, 76 to
+Fri May 07 2021 03:08:26 GMT-0500 (Chicago Daylight Time)60, 61, 85 spaced
+120, 61, 85 to
+120, 61, 85 to
+120, 61, 85 to
+120, 61, 85 to
+Fri May 07 2021 03:08:26 GMT-0500 (Chicago Daylight Time)120, 67, 61 spaced
+180, 67, 61 to
+180, 67, 61 to
+180, 67, 61 to
+Fri May 07 2021 03:08:26 GMT-0500 (Chicago Daylight Time)180, 80, 61 spaced
+240, 80, 61 to
+240, 80, 61 to
+240, 80, 61 to
+Fri May 07 2021 03:08:26 GMT-0500 (Chicago Daylight Time)240, 53, 65 spaced
+300, 53, 65 to
+300, 53, 65 to
+300, 53, 65 to
+Fri May 07 2021 03:08:26 GMT-0500 (Chicago Daylight Time)300, 56, 73 spaced
