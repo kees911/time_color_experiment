@@ -1,0 +1,40 @@
+Fri May 07 2021 06:28:42 GMT-0500 (Central Daylight Time)0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+Fri May 07 2021 06:28:42 GMT-0500 (Central Daylight Time)0, 48, 81 spaced
+60, 48, 81 to
+60, 48, 81 to
+60, 48, 81 to
+60, 48, 81 to
+Fri May 07 2021 06:28:42 GMT-0500 (Central Daylight Time)60, 0, 81 spaced
+120, 0, 81 to
+120, 0, 81 to
+120, 0, 81 to
+120, 0, 81 to
+120, 0, 81 to
+120, 0, 81 to
+Fri May 07 2021 06:28:42 GMT-0500 (Central Daylight Time)120, 0, 81 spaced
+180, 0, 81 to
+180, 0, 81 to
+180, 0, 81 to
+180, 0, 81 to
+180, 0, 81 to
+180, 0, 81 to
+Fri May 07 2021 06:28:42 GMT-0500 (Central Daylight Time)180, 0, 81 spaced
+240, 0, 81 to
+240, 0, 81 to
+240, 0, 81 to
+240, 0, 81 to
+240, 0, 81 to
+240, 0, 81 to
+Fri May 07 2021 06:28:42 GMT-0500 (Central Daylight Time)240, 69, 68 spaced
+300, 69, 68 to
+300, 69, 68 to
+300, 69, 68 to
+300, 69, 68 to
+Fri May 07 2021 06:28:42 GMT-0500 (Central Daylight Time)300, 23, 100 spaced
