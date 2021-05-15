@@ -1,0 +1,36 @@
+Fri May 07 2021 20:00:18 GMT-0400 (hora de Venezuela)0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+Fri May 07 2021 20:00:18 GMT-0400 (hora de Venezuela)0, 91, 77 spaced
+60, 91, 77 to
+60, 91, 77 to
+60, 91, 77 to
+60, 91, 77 to
+60, 91, 77 to
+60, 91, 77 to
+Fri May 07 2021 20:00:18 GMT-0400 (hora de Venezuela)60, 91, 39 spaced
+120, 91, 39 to
+120, 91, 39 to
+120, 91, 39 to
+Fri May 07 2021 20:00:18 GMT-0400 (hora de Venezuela)120, 91, 39 spaced
+180, 91, 39 to
+180, 91, 39 to
+180, 91, 39 to
+Fri May 07 2021 20:00:18 GMT-0400 (hora de Venezuela)180, 71, 98 spaced
+240, 71, 98 to
+240, 71, 98 to
+240, 71, 98 to
+240, 71, 98 to
+240, 71, 98 to
+240, 71, 98 to
+240, 71, 98 to
+240, 71, 98 to
+Fri May 07 2021 20:00:18 GMT-0400 (hora de Venezuela)240, 32, 100 spaced
+300, 32, 100 to
+300, 32, 100 to
+300, 32, 100 to
+300, 32, 100 to
+300, 32, 100 to
+300, 32, 100 to
+300, 32, 100 to
+Fri May 07 2021 20:00:18 GMT-0400 (hora de Venezuela)300, 89, 51 spaced

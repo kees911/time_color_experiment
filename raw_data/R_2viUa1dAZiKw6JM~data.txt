@@ -1,0 +1,51 @@
+Sat May 08 2021 00:00:57 GMT-0500 (Central Daylight Time)0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+Sat May 08 2021 00:00:57 GMT-0500 (Central Daylight Time)0, 50, 65 spaced
+60, 50, 65 to
+60, 50, 65 to
+60, 50, 65 to
+60, 50, 65 to
+60, 50, 65 to
+60, 50, 65 to
+60, 50, 65 to
+60, 50, 65 to
+Sat May 08 2021 00:00:57 GMT-0500 (Central Daylight Time)60, 33, 77 spaced
+120, 33, 77 to
+120, 33, 77 to
+120, 33, 77 to
+120, 33, 77 to
+120, 33, 77 to
+120, 33, 77 to
+120, 33, 77 to
+120, 33, 77 to
+Sat May 08 2021 00:00:57 GMT-0500 (Central Daylight Time)120, 31, 64 spaced
+180, 31, 64 to
+180, 31, 64 to
+180, 31, 64 to
+180, 31, 64 to
+180, 31, 64 to
+180, 31, 64 to
+180, 31, 64 to
+Sat May 08 2021 00:00:57 GMT-0500 (Central Daylight Time)180, 45, 68 spaced
+240, 45, 68 to
+240, 45, 68 to
+240, 45, 68 to
+240, 45, 68 to
+240, 45, 68 to
+240, 45, 68 to
+240, 45, 68 to
+Sat May 08 2021 00:00:57 GMT-0500 (Central Daylight Time)240, 45, 54 spaced
+300, 45, 54 to
+300, 45, 54 to
+300, 45, 54 to
+300, 45, 54 to
+300, 45, 54 to
+300, 45, 54 to
+300, 45, 54 to
+300, 45, 54 to
+Sat May 08 2021 00:00:57 GMT-0500 (Central Daylight Time)300, 100, 37 spaced
