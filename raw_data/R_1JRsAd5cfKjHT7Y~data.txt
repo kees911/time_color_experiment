@@ -1,0 +1,41 @@
+Fri May 07 2021 06:28:48 GMT-0700 (Mountain Standard Time)0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+Fri May 07 2021 06:28:48 GMT-0700 (Mountain Standard Time)0, 100, 76 spaced
+60, 100, 76 to
+60, 100, 76 to
+60, 100, 76 to
+60, 100, 76 to
+60, 100, 76 to
+60, 100, 76 to
+60, 100, 76 to
+60, 100, 76 to
+Fri May 07 2021 06:28:48 GMT-0700 (Mountain Standard Time)60, 100, 62 spaced
+120, 100, 62 to
+120, 100, 62 to
+120, 100, 62 to
+120, 100, 62 to
+120, 100, 62 to
+Fri May 07 2021 06:28:48 GMT-0700 (Mountain Standard Time)120, 66, 60 spaced
+180, 66, 60 to
+180, 66, 60 to
+180, 66, 60 to
+180, 66, 60 to
+Fri May 07 2021 06:28:48 GMT-0700 (Mountain Standard Time)180, 100, 64 spaced
+240, 100, 64 to
+240, 100, 64 to
+240, 100, 64 to
+240, 100, 64 to
+240, 100, 64 to
+Fri May 07 2021 06:28:48 GMT-0700 (Mountain Standard Time)240, 67, 90 spaced
+300, 67, 90 to
+300, 67, 90 to
+300, 67, 90 to
+300, 67, 90 to
+300, 67, 90 to
+300, 67, 90 to
+Fri May 07 2021 06:28:48 GMT-0700 (Mountain Standard Time)300, 54, 100 spaced
