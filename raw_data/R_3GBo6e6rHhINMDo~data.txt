@@ -1,0 +1,50 @@
+Fri May 07 2021 16:02:01 GMT-0700 (Pacific Daylight Time)0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+Fri May 07 2021 16:02:01 GMT-0700 (Pacific Daylight Time)0, 68, 42 spaced
+60, 68, 42 to
+60, 68, 42 to
+60, 68, 42 to
+60, 68, 42 to
+60, 68, 42 to
+60, 68, 42 to
+Fri May 07 2021 16:02:01 GMT-0700 (Pacific Daylight Time)60, 25, 32 spaced
+120, 25, 32 to
+120, 25, 32 to
+120, 25, 32 to
+120, 25, 32 to
+120, 25, 32 to
+120, 25, 32 to
+120, 25, 32 to
+120, 25, 32 to
+120, 25, 32 to
+Fri May 07 2021 16:02:01 GMT-0700 (Pacific Daylight Time)120, 25, 32 spaced
+180, 25, 32 to
+180, 25, 32 to
+180, 25, 32 to
+180, 25, 32 to
+180, 25, 32 to
+180, 25, 32 to
+180, 25, 32 to
+180, 25, 32 to
+180, 25, 32 to
+Fri May 07 2021 16:02:01 GMT-0700 (Pacific Daylight Time)180, 67, 47 spaced
+240, 67, 47 to
+240, 67, 47 to
+240, 67, 47 to
+240, 67, 47 to
+240, 67, 47 to
+240, 67, 47 to
+240, 67, 47 to
+240, 67, 47 to
+Fri May 07 2021 16:02:01 GMT-0700 (Pacific Daylight Time)240, 19, 37 spaced
+300, 19, 37 to
+300, 19, 37 to
+300, 19, 37 to
+300, 19, 37 to
+300, 19, 37 to
+300, 19, 37 to
+300, 19, 37 to
+Fri May 07 2021 16:02:01 GMT-0700 (Pacific Daylight Time)300, 30, 32 spaced

@@ -1,0 +1,28 @@
+Fri May 07 2021 09:18:04 GMT-0400 (Eastern Daylight Time)0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+0, 50, 50 to
+Fri May 07 2021 09:18:04 GMT-0400 (Eastern Daylight Time)0, 90, 86 spaced
+60, 90, 86 to
+60, 90, 86 to
+Fri May 07 2021 09:18:04 GMT-0400 (Eastern Daylight Time)60, 87, 100 spaced
+120, 87, 100 to
+120, 87, 100 to
+120, 87, 100 to
+120, 87, 100 to
+Fri May 07 2021 09:18:04 GMT-0400 (Eastern Daylight Time)120, 42, 96 spaced
+180, 42, 96 to
+180, 42, 96 to
+180, 42, 96 to
+Fri May 07 2021 09:18:04 GMT-0400 (Eastern Daylight Time)180, 87, 100 spaced
+240, 87, 100 to
+240, 87, 100 to
+240, 87, 100 to
+240, 87, 100 to
+Fri May 07 2021 09:18:04 GMT-0400 (Eastern Daylight Time)240, 22, 100 spaced
+300, 22, 100 to
+300, 22, 100 to
+300, 22, 100 to
+Fri May 07 2021 09:18:04 GMT-0400 (Eastern Daylight Time)300, 37, 99 spaced

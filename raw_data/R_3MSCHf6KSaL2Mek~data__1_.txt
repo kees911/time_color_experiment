@@ -1,0 +1,6 @@
+Fri May 07 2021 04:37:40 GMT-0400 (Eastern Daylight Time)Fri May 07 2021 04:37:40 GMT-0400 (Eastern Daylight Time)0, 86, 70 spaced
+Fri May 07 2021 04:37:40 GMT-0400 (Eastern Daylight Time)60, 94, 53 spaced
+Fri May 07 2021 04:37:40 GMT-0400 (Eastern Daylight Time)120, 94, 28 spaced
+Fri May 07 2021 04:37:40 GMT-0400 (Eastern Daylight Time)180, 89, 99 spaced
+Fri May 07 2021 04:37:40 GMT-0400 (Eastern Daylight Time)240, 89, 72 spaced
+Fri May 07 2021 04:37:40 GMT-0400 (Eastern Daylight Time)300, 80, 54 spaced
